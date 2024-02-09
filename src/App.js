@@ -5,6 +5,7 @@ function App({ history }) {
   const handleRecieveClick = () => {
     history.push('/recieve');
   };
+  
 
   return (
     <div className="container">
